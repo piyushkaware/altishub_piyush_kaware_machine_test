@@ -1,1 +1,2 @@
-# altishub_piyush_kaware_machine_test
+1. clone repo 
+2. only run command "npm install"
